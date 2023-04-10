@@ -47,3 +47,7 @@ temperature_tracker.get_mean()
 
 
 You can read the code and tests to better understand how it works.
+
+#I will be using this project in order to record geographic loccations temperatures.
+#I will be adding suggested water intake based on the temperatures
+#Changes are on the way
